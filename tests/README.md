@@ -20,3 +20,5 @@ The current real-time test script is:
 
 ```text
 src/live_test.py
+src/camera.py
+
